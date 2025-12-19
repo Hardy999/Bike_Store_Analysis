@@ -119,4 +119,4 @@ Sales performance varies significantly across representatives.
 
 ---
 
-
+![Dataset and Dashboard Screenshot](Bikestore_dashboard_screenshot.png)
