@@ -122,5 +122,5 @@ Sales performance varies significantly across representatives.
 
 
 
-<img src="Bikestore_dashboard_screenshot.png" alt="Dataset and Dashboard Screenshot" width="900"/>
+![Bike Store Dashboard](Dataset%20and%20Dashboard%20Screenshot/Bikestore_dashboard_screenshot.png)
 
